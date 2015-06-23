@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../test2_netty/netty-frame-demo/netty-frame-demo.iml" filepath="$PROJECT_DIR$/../test2_netty/netty-frame-demo/netty-frame-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../netty_demo/netty-parent.iml" filepath="$PROJECT_DIR$/../netty_demo/netty-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spring_maven_deom1/spring-frame-demo/spring-frame-demo.iml" filepath="$PROJECT_DIR$/../spring_maven_deom1/spring-frame-demo/spring-frame-demo.iml" />
+    </modules>
+  </component>
+</project>
