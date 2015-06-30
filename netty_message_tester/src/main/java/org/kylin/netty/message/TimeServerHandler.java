@@ -16,9 +16,9 @@ public class TimeServerHandler extends ChannelHandlerAdapter
     {
         System.out.println ("server handler channel active") ;
 
-        ChannelFuture f = ctx.writeAndFlush( new UnixTime()) ;
+    //    ChannelFuture f = ctx.writeAndFlush( new UnixTime()) ;
 
-        f.addListener(ChannelFutureListener.CLOSE) ;
+      //  f.addListener(ChannelFutureListener.CLOSE) ;
     }
 
     @Override
